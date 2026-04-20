@@ -1,7 +1,7 @@
 # SSH Hardening with Multi-Factor Authentication (MFA)
 
 ## 📄 Full Technical Report
-👉 [View Report](./report/ssh-mfa-hardening.pdf)
+👉 [View Report](./reports/ssh-mfa-hardening.pdf)
 
 ## Overview
 This project focuses on securing SSH access by implementing multi-factor authentication (MFA) and hardening configurations to reduce attack surface and prevent unauthorized access.
